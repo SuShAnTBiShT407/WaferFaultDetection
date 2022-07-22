@@ -4,6 +4,7 @@ Project - Wafer Fault Detection
 
 Machine Learning Project
 ------------------------
+This project is completed with the help of ineuron team.
 
 Business Idea: We use wafer to create electric integration circuits. We use them in large scale so it is very hectic to check each and every wafer sensor manually so we build a ML model which reduce cost and is time efficient. We will recieve all information in byte code then we convert it to message using MQTT protocol.
 
